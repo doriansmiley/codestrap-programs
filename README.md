@@ -8,3 +8,6 @@ to becoming a software engineer through apprenticeship.
 - [Facebook](./apprenticeships/programs.md#facebook)
 - [Brainly](./apprenticeships/programs.md#brainly)
 
+## Curriculum
+- [Latest Version](./apprenticeships/curriculum.md)
+
