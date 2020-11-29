@@ -15,10 +15,11 @@ The Microsoft Leap program was launched in 2015 and is perhaps the most mature o
 Our [curriculum](./curriculum.md) is tailored to the [Software Engineer Apprenticeship](https://www.microsoft.com/en-us/leap/pathways/software-engineering/).
 
 #### Google
+We don't have a ton of information around Google's [apprenticeship program](https://buildyourfuture.withgoogle.com/programs/apprenticeship-programs/).
+The program's description seems to indicate it accepts a wide variety of applicants.
 
 #### Facebook
-
-#### Brainly
+Facebook operates [Facebook University](https://www.facebook.com/careers/students-and-grads/students) for students and graduates.
 
 ## Don't see your program?
 
