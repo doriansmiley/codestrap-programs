@@ -59,21 +59,6 @@ Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Docker Certified Associate (DCA)](https://acloud.guru/overview/6b00566d-6246-4ebe-8257-f98f989321cf) | 60 hours | 20 hours/week | na | na
 
-## Git Certification
-Git is a version control system used by software engineers to manage their code.
-It's a foundational tool used everyday by virtually every software engineer.
-
-**Topics covered**:
-`basic git commands`
-`branching patters`
-`fork and pull`
-`code review`
-
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Markdown Mastery](https://www.udemy.com/course/markdown/) | 8 hours | 8 hours/week | [The System Administrator's Guide to Bash Scripting](https://acloud.guru/overview/bccc6769-38e7-4a7f-8255-6914b7244caf) | [chat](https://discord.gg/syA242Z)
-[Source Control with Git](https://acloud.guru/overview/104ff5d6-39c0-4116-b597-4d1bce0b8081) | 20 hours | 20 hours/week | [Markdown Mastery](https://www.udemy.com/course/markdown/) | [chat](https://discord.gg/syA242Z)
-
 ## AWS Certification
 Amazon Web Services (AWS) is the leading cloud computing platform in the world.
 Master the essentials of AWS and earn a valuable job skill. 
@@ -93,6 +78,20 @@ Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [AWS Certified Solutions Architect Associate](https://acloud.guru/overview/aws-certified-solutions-architect-associate) | 80 hours | 20 hours/week | [Red Hat Certified System Administrator (EX200)](https://acloud.guru/overview/78f2cd85-fed7-4b70-aa02-63b9b3dc2e35) | [chat](https://discord.gg/syA242Z)
 
+## Git Certification
+Git is a version control system used by software engineers to manage their code.
+It's a foundational tool used everyday by virtually every software engineer.
+
+**Topics covered**:
+`basic git commands`
+`branching patters`
+`fork and pull`
+`code review`
+
+Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--:
+[Markdown Mastery](https://www.udemy.com/course/markdown/) | 8 hours | 8 hours/week | [The System Administrator's Guide to Bash Scripting](https://acloud.guru/overview/bccc6769-38e7-4a7f-8255-6914b7244caf) | [chat](https://discord.gg/syA242Z)
+[Source Control with Git](https://acloud.guru/overview/104ff5d6-39c0-4116-b597-4d1bce0b8081) | 20 hours | 20 hours/week | [Markdown Mastery](https://www.udemy.com/course/markdown/) | [chat](https://discord.gg/syA242Z)
 
 ## Course Links
 [Learn HTML](https://www.codecademy.com/learn/learn-html) | 9 hours | 8 hours/week | na | na
