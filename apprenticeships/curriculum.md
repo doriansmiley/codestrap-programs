@@ -6,7 +6,7 @@
 - [The Command Line](#the-command-line)
 - [Intro to git](#git-certification)
 - [Linux Certification (optional)](#linux-certification)
-- [Docker Certification](#docker-certification)
+- [Docker Certification (optional)](#docker-certification)
 - [AWS Certification (optional)](#aws-certification)
 - [JavaScript Certification](#javascript-certification)
 
@@ -106,15 +106,24 @@ Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [AWS Certified Solutions Architect Associate](https://acloud.guru/overview/aws-certified-solutions-architect-associate) | 80 hours | 20 hours/week | [The Command Line](#the-command-line) | [chat](https://discord.gg/syA242Z)
 
+## Javascript Certification
+The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!
+
+**Topics covered**:
+`javaScript fundamentals`
+`object oriented programmong`
+`asynchronous javaScript`
+`modern tools likw NPM, Parcel, Babel and ES6 modules`
+
+Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--:
+[The Complete JavaScript Course 2020: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) | 180 hours | 20 hours/week | [Intro to git](#git-certification) | [chat](https://discord.gg/syA242Z)
+
 ## Course Links
 [Learn HTML](https://www.codecademy.com/learn/learn-html) | 9 hours | 8 hours/week | na | na
 [Learn XML Crash Course](https://www.udemy.com/course/learn-xml-crash-course/) | 2 hours | 8 hours/week | na | na
 [XML and XML Schema Definition in Easy Steps](https://www.udemy.com/course/xml-and-xml-schema-definition-in-easy-steps/) | 2 hours | 8 hours/week | na | na
 [JSON in Action](Introduction to JavaScript Object Notation) | 1.5 hours | 2 hours/week | na | na
-[Markdown Mastery](https://www.udemy.com/course/markdown/) | 4.5 hours | 5 hours/week | na | na
-[Docker Certified Associate (DCA)](https://acloud.guru/overview/6b00566d-6246-4ebe-8257-f98f989321cf) | 22 hours | 8 hours/week | na | na
-[Source Control with Git](https://acloud.guru/overview/104ff5d6-39c0-4116-b597-4d1bce0b8081) | 5.6 hours | 6 hours/week | na | na
-[AWS Certified Solutions Architect Associate](https://acloud.guru/overview/aws-certified-solutions-architect-associate) | 80 hours | 20 hours/week | [Red Hat Certified System Administrator (EX200)](https://acloud.guru/overview/78f2cd85-fed7-4b70-aa02-63b9b3dc2e35) | [chat](https://discord.gg/syA242Z)
 [Exam 98-382: Introduction to Programming Using JavaScript](https://docs.microsoft.com/en-us/learn/certifications/exams/98-382) | 80 hours | 20 hours/week | [Red Hat Certified System Administrator (EX200)](https://acloud.guru/overview/78f2cd85-fed7-4b70-aa02-63b9b3dc2e35) | [chat](https://discord.gg/syA242Z)
 
 
