@@ -6,55 +6,8 @@
 - [Linux Certification](#linux-certification)
 - [Docker Certification](#docker-certification)
 - [AWS Certification](#aws-certification)
-- [Intro to git](#intro-to-git)
-    - [Markdown Mastery](#markdown-mastery)
+- [Intro to git](#git-certification)
 - [JavaScript Certification](#javascript-certification)
-    - [Intro to IDEs](#intro-to-ides)
-        - [VS Code](#)
-        - [WebStorm](#)
-    - [Setting up your Environment](#)
-        -[Linters](#)
-        -[Prettier](#)
-        -[Bundlers](#)
-        -[Package Managers](#)
-        -[Pre-commit Checks](#)
-   - [Language Basics](#)
-   - [HTML and CSS](#)
-   - [UI Layout and Design](#)
-       - [Advanced Layouts with Flex Box and Grids](#)
-       - [Intro to SCSS](#)
-       - [Material Design](#)
-   - [XML and JSON](#)
-    - [Data Structures](#)
-        [Lists](#)
-        [Maps](#)
-        [Arrays](#)
-        [Trees](#)
-    - [DOM APIs](#)
-    - [Understanding the Event Loop](#)
-       - [Async Programming Basics](#)
-    - [Fetch and XHR](#)
-    - [ES Modules and Classes](#)
-    - [Object Oriented Programming in Javascript](#)
-    - [Intro to Functional Programming](#)
-    - [Functional Programmin in JavaScript](#)
-    - [Unit Testing](#)
-    - [Intro to TypeScript](#)
-    - [Intro to NodeJS](#)
-    - [Certification Training and Exam](#)
-- [Application Frameworks](#)
-    - [React](#)
-    - [Angular](#)
-    - [View](#)
-    - [Ionic](#)
-- [Agile Certification](#)
-    - [Agile Fundamentals](#)
-    - [Jira](#)
-    - [Confluence](#)
-    - [Certification Training and Exam](#)
-- [Final project](#final-project)
-    - [Contributing to an Open Source Project](#)
-    - [Starting a Project](#)
 
 ## Prerequisites
 - Access to linux based terminal on any of the following:
@@ -91,12 +44,12 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [YouTube Videos](https://www.youtube.com/playlist?list=PLvp1Riqm5kiO3ZTqqD6rwuwws6ulbiWoW) | 3 hours | na | na | na
 
 ## Docker Certification
-Docker is a technology used by most software engineers to distribute their code without worrying about
-the underlying operating system and host machine. Known as container virtualization, this management tool for distributing code
+Docker is a technology used by most software engineers to distribute their code. 
+Known as container virtualization, this management tool for distributing code
 is a foundational tool for all software engineers.
 
 **Topics covered**:
-`docker concets`
+`docker consepts`
 `building docker images`
 `using docker registries`
 `Docker Community Edition (DCE)`
@@ -109,7 +62,6 @@ Courses | Duration | Effort | Prerequisites | Discussion
 ## Git Certification
 Git is a version control system used by software engineers to manage their code.
 It's a foundational tool used everyday by virtually every software engineer.
-In this course you will learn the basics of git and be ready to take your certification exam.
 
 **Topics covered**:
 `basic git commands`
@@ -119,7 +71,8 @@ In this course you will learn the basics of git and be ready to take your certif
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Source Control with Git](https://acloud.guru/overview/104ff5d6-39c0-4116-b597-4d1bce0b8081) | 20 hours | 20 hours/week | [The System Administrator's Guide to Bash Scripting](https://acloud.guru/overview/bccc6769-38e7-4a7f-8255-6914b7244caf) | [chat](https://discord.gg/syA242Z)
+[Markdown Mastery](https://www.udemy.com/course/markdown/) | 8 hours | 8 hours/week [The System Administrator's Guide to Bash Scripting](https://acloud.guru/overview/bccc6769-38e7-4a7f-8255-6914b7244caf) | [chat](https://discord.gg/syA242Z)
+[Source Control with Git](https://acloud.guru/overview/104ff5d6-39c0-4116-b597-4d1bce0b8081) | 20 hours | 20 hours/week | [Markdown Mastery](https://www.udemy.com/course/markdown/) | [chat](https://discord.gg/syA242Z)
 
 ## AWS Certification
 Amazon Web Services (AWS) is the leading cloud computing platform in the world.
