@@ -6,8 +6,8 @@
 - [The Command Line](#the-command-line)
 - [Intro to git](#git-certification)
 - [Linux Certification (optional)](#linux-certification)
-- [Docker Certification (optional)](#docker-certification)
-- [AWS Certification (optional)](#aws-certification)
+- [Docker Certification](#docker-certification)
+- [AWS Certification](#aws-certification)
 - [JavaScript Certification](#javascript-certification)
 
 ## Prerequisites
