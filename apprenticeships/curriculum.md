@@ -71,7 +71,7 @@ It's a foundational tool used everyday by virtually every software engineer.
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Markdown Mastery](https://www.udemy.com/course/markdown/) | 8 hours | 8 hours/week [The System Administrator's Guide to Bash Scripting](https://acloud.guru/overview/bccc6769-38e7-4a7f-8255-6914b7244caf) | [chat](https://discord.gg/syA242Z)
+[Markdown Mastery](https://www.udemy.com/course/markdown/) | 8 hours | 8 hours/week | [The System Administrator's Guide to Bash Scripting](https://acloud.guru/overview/bccc6769-38e7-4a7f-8255-6914b7244caf) | [chat](https://discord.gg/syA242Z)
 [Source Control with Git](https://acloud.guru/overview/104ff5d6-39c0-4116-b597-4d1bce0b8081) | 20 hours | 20 hours/week | [Markdown Mastery](https://www.udemy.com/course/markdown/) | [chat](https://discord.gg/syA242Z)
 
 ## AWS Certification
