@@ -4,10 +4,10 @@
 
 - [Prerequisites](#prerequisites)
 - [The Command Line](#the-command-line)
-- [Linux Certification](#linux-certification)
-- [Docker Certification](#docker-certification)
-- [AWS Certification](#aws-certification)
 - [Intro to git](#git-certification)
+- [Linux Certification (optional)](#linux-certification)
+- [Docker Certification](#docker-certification)
+- [AWS Certification (optional)](#aws-certification)
 - [JavaScript Certification](#javascript-certification)
 
 ## Prerequisites
@@ -36,6 +36,21 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [The System Administrator's Guide to Bash Scripting](https://acloud.guru/overview/bccc6769-38e7-4a7f-8255-6914b7244caf) | 16 hours | 8 hours/week | [Text Editing with Vim Vi iMproved](https://acloud.guru/overview/be02e4b7-edf6-49b8-970d-7b322bbd862b) | [chat](https://discord.gg/syA242Z)
 [YAML Essentials](https://acloud.guru/overview/90dd551f-91a6-4b91-a0a8-d4905521f641) | 3 hours | 3 hours/week | [The System Administrator's Guide to Bash Scripting](https://acloud.guru/overview/bccc6769-38e7-4a7f-8255-6914b7244caf) | [chat](https://discord.gg/syA242Z)
 [YouTube Videos](https://www.youtube.com/playlist?list=PLvp1Riqm5kiO3ZTqqD6rwuwws6ulbiWoW) | 3 hours | na | na | na
+
+## Git Certification
+Git is a version control system used by software engineers to manage their code.
+It's a foundational tool used everyday by virtually every software engineer.
+
+**Topics covered**:
+`basic git commands`
+`branching patters`
+`fork and pull`
+`code review`
+
+Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--:
+[Markdown Mastery](https://www.udemy.com/course/markdown/) | 8 hours | 8 hours/week | [The Command Line](#the-command-line) | [chat](https://discord.gg/syA242Z)
+[Source Control with Git](https://acloud.guru/overview/104ff5d6-39c0-4116-b597-4d1bce0b8081) | 20 hours | 20 hours/week | [Markdown Mastery](https://www.udemy.com/course/markdown/) | [chat](https://discord.gg/syA242Z)
 
 ## Linux Certification
 Linux is everywhere! Nearly all the worlds servers run Linux. This makes Linux is a valuable job skill in its own right. 
@@ -90,21 +105,6 @@ recommended since so many employers use AWS.
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [AWS Certified Solutions Architect Associate](https://acloud.guru/overview/aws-certified-solutions-architect-associate) | 80 hours | 20 hours/week | [The Command Line](#the-command-line) | [chat](https://discord.gg/syA242Z)
-
-## Git Certification
-Git is a version control system used by software engineers to manage their code.
-It's a foundational tool used everyday by virtually every software engineer.
-
-**Topics covered**:
-`basic git commands`
-`branching patters`
-`fork and pull`
-`code review`
-
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Markdown Mastery](https://www.udemy.com/course/markdown/) | 8 hours | 8 hours/week | [The Command Line](#the-command-line) | [chat](https://discord.gg/syA242Z)
-[Source Control with Git](https://acloud.guru/overview/104ff5d6-39c0-4116-b597-4d1bce0b8081) | 20 hours | 20 hours/week | [Markdown Mastery](https://www.udemy.com/course/markdown/) | [chat](https://discord.gg/syA242Z)
 
 ## Course Links
 [Learn HTML](https://www.codecademy.com/learn/learn-html) | 9 hours | 8 hours/week | na | na
