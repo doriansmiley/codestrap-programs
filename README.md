@@ -7,7 +7,6 @@ to becoming a software engineer through apprenticeship.
 - [Microsoft](./apprenticeships/programs.md#microsoft)
 - [Google](./apprenticeships/programs.md#google)
 - [Facebook](./apprenticeships/programs.md#facebook)
-- [Brainly](./apprenticeships/programs.md#brainly)
 
 ## Curriculum
 - [Latest Version](./apprenticeships/curriculum.md)
