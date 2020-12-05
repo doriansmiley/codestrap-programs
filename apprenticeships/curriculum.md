@@ -107,7 +107,8 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [AWS Certified Solutions Architect Associate](https://acloud.guru/overview/aws-certified-solutions-architect-associate) | 80 hours | 20 hours/week | [The Command Line](#the-command-line) | [chat](https://discord.gg/syA242Z)
 
 ## Javascript Certification
-The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!
+This is an all in one course from Udemy. It appears to be the most popular
+and covers virtually everything you need to enter the world of programming in Javascript.
 
 **Topics covered**:
 `javaScript fundamentals`
