@@ -119,6 +119,17 @@ Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [The Complete JavaScript Course 2020: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) | 180 hours | 20 hours/week | [Intro to git](#git-certification) | [chat](https://discord.gg/syA242Z)
 
+## Final Exam
+Contribute to at least one popular open source project for six months. Some popular javascript projects are below:
+- [The Serverless Framework](https://github.com/serverless/)
+- [HTML5 Boiler Plate](https://github.com/h5bp/html5-boilerplate)
+- [airbnb/javascript](https://github.com/airbnb/javascript)
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+- [three.js](https://github.com/mrdoob/three.js)
+- [d3](https://github.com/d3/d3)
+
+To see the latest trending projects click [here](https://github.com/trending/javascript).
+
 ## Course Links
 [Learn HTML](https://www.codecademy.com/learn/learn-html) | 9 hours | 8 hours/week | na | na
 [Learn XML Crash Course](https://www.udemy.com/course/learn-xml-crash-course/) | 2 hours | 8 hours/week | na | na
