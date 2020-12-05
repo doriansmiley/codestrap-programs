@@ -11,7 +11,7 @@ IBM has a number of apprenticeship programs you can view [here](https://www.ibm.
 Our [curriculum](./curriculum.md) is tailored to the [Software Engineer Apprenticeship](https://careers.ibm.com/ShowJob/Id/1019265/Software-Engineer-Apprentice/).
 
 #### Microsoft
-The Microsoft Leap program was launched in 2015 and is perhaps the most mature of all apprenticeship programs.
+The [Microsoft Leap program](https://www.youtube.com/channel/UCzoL_8duwxFvh_H98kGaemA) was launched in 2015 and is perhaps the most mature of all apprenticeship programs.
 Our [curriculum](./curriculum.md) is tailored to the [Software Engineer Apprenticeship](https://www.microsoft.com/en-us/leap/pathways/software-engineering/).
 
 #### Google
