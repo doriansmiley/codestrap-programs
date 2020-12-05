@@ -72,7 +72,8 @@ Courses | Duration | Effort | Prerequisites | Discussion
 ## Docker Certification
 Docker is a technology used by most software engineers to distribute their code. 
 Known as container virtualization, this management tool for distributing code
-is a foundational tool for all software engineers.
+is a foundational tool for all software engineers. Everything you need to know about
+the exam can be found [here](https://medium.com/bb-tutorials-and-thoughts/all-you-need-to-know-about-docker-certified-associate-dca-exam-21dd2ccadbc0).
 
 **Topics covered**:
 `docker consepts`
