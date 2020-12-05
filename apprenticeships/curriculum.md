@@ -129,7 +129,7 @@ Contribute to at least one popular open source project for six months. Some popu
 - [d3](https://github.com/d3/d3)
 
 To see the latest trending projects click [here](https://github.com/trending/javascript).
-
+<!--
 ## Course Links
 [Learn HTML](https://www.codecademy.com/learn/learn-html) | 9 hours | 8 hours/week | na | na
 [Learn XML Crash Course](https://www.udemy.com/course/learn-xml-crash-course/) | 2 hours | 8 hours/week | na | na
@@ -137,4 +137,4 @@ To see the latest trending projects click [here](https://github.com/trending/jav
 [JSON in Action](Introduction to JavaScript Object Notation) | 1.5 hours | 2 hours/week | na | na
 [Exam 98-382: Introduction to Programming Using JavaScript](https://docs.microsoft.com/en-us/learn/certifications/exams/98-382) | 80 hours | 20 hours/week | [Red Hat Certified System Administrator (EX200)](https://acloud.guru/overview/78f2cd85-fed7-4b70-aa02-63b9b3dc2e35) | [chat](https://discord.gg/syA242Z)
 
-
+-->
