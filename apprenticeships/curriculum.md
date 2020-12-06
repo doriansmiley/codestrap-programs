@@ -9,6 +9,7 @@
 - [Docker Certification](#docker-certification)
 - [AWS Certification](#aws-certification)
 - [JavaScript Certification](#javascript-certification)
+- [Final Exam](#final-exam)
 
 ## Prerequisites
 - Access to linux based terminal on any of the following:
