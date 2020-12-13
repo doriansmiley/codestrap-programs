@@ -21,11 +21,11 @@
 ## The Command Line
 The command line, or terminal, is the most fundamental tool for a software engineer. In this foundational course
 you will learn how to interact with computers through commands and code! Your journey to becoming a software engineer
-start here.
+starts here.
 
 **Topics covered**:
 `the command line`
-`basics or programming`
+`basics of programming`
 `linux text editors`
 `shell scripting`
 
@@ -54,7 +54,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Source Control with Git](https://acloud.guru/overview/104ff5d6-39c0-4116-b597-4d1bce0b8081) | 20 hours | 20 hours/week | [Markdown Mastery](https://www.udemy.com/course/markdown/) | [chat](https://discord.com/channels/787748295346356245/787750027916738610)
 
 ## Linux Certification
-Linux is everywhere! Nearly all the worlds servers run Linux. This makes Linux is a valuable job skill in its own right. 
+Linux is everywhere! Nearly all the worlds servers run Linux. This makes Linux a valuable job skill in its own right. 
 If you are enjoying bash, and want to cultivate an employable job skill immediately, obtain your linux certification with this **optional** course.
 After completing this course you will be ready to take your certification exams:
 - [Red Hat Certified System Administrator (EX200) - RHCSA](https://www.redhat.com/en/services/certification/rhcsa)
@@ -76,7 +76,7 @@ is a foundational tool for all software engineers. Everything you need to know a
 the exam can be found [here](https://medium.com/bb-tutorials-and-thoughts/all-you-need-to-know-about-docker-certified-associate-dca-exam-21dd2ccadbc0).
 
 **Topics covered**:
-`docker consepts`
+`docker concepts`
 `building docker images`
 `using docker registries`
 `Docker Community Edition (DCE)`
