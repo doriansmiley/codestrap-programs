@@ -14,8 +14,8 @@ The [Microsoft Leap program](https://www.youtube.com/channel/UCzoL_8duwxFvh_H98k
 Our [curriculum](./curriculum.md) is tailored to the [Software Engineer Apprenticeship](https://www.microsoft.com/en-us/leap/pathways/software-engineering/).
 
 #### Google
-We don't have a ton of information around Google's [apprenticeship program](https://buildyourfuture.withgoogle.com/programs/apprenticeship-programs/).
-The program's description seems to indicate it accepts a wide variety of applicants.
+Google has launched [Grow with Google](https://grow.google/). This is a long term commitment from Google to provide a path to prosperity through hands on real world experience! 
+It includes [career certificates](https://grow.google/certificates/), [free training](https://grow.google/events/), and [partnerships](https://grow.google/partners/). Go Google!
 
 #### Facebook
 Facebook operates [Facebook University](https://www.facebook.com/careers/students-and-grads/students) for students and graduates.
