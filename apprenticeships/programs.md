@@ -7,11 +7,11 @@ let you earn while you learn. This path is not for the faint of heart. You will 
 
 #### IBM
 IBM has a number of apprenticeship programs you can view [here](https://www.ibm.com/us-en/employment/newcollar/apprenticeships/).
-Our [curriculum](./curriculum.md) is tailored to the [Software Engineer Apprenticeship](https://www.ibm.com/us-en/employment/newcollar/apprenticeships/#jobs?%23jobs=&country=United%2520States&job-category=Software%2520Development%2520%2526%2520Support&experience=Entry%2520Level).
+Our [curriculum](frontend-curriculum.md) is tailored to the [Software Engineer Apprenticeship](https://www.ibm.com/us-en/employment/newcollar/apprenticeships/#jobs?%23jobs=&country=United%2520States&job-category=Software%2520Development%2520%2526%2520Support&experience=Entry%2520Level).
 
 #### Microsoft
 The [Microsoft Leap program](https://www.youtube.com/channel/UCzoL_8duwxFvh_H98kGaemA) was launched in 2015 and is perhaps the most mature of all apprenticeship programs.
-Our [curriculum](./curriculum.md) is tailored to the [Software Engineer Apprenticeship](https://www.microsoft.com/en-us/leap/pathways/software-engineering/).
+Our [curriculum](frontend-curriculum.md) is tailored to the [Software Engineer Apprenticeship](https://www.microsoft.com/en-us/leap/pathways/software-engineering/).
 
 #### Google
 We don't have a ton of information around Google's [apprenticeship program](https://buildyourfuture.withgoogle.com/programs/apprenticeship-programs/).
