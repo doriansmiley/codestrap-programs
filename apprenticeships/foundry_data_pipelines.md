@@ -13,7 +13,7 @@ TODO
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[The Complete JavaScript Course 2020: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) | 180 hours | 20 hours/week | [Intro to git](#git-certification) | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
+[TODO](#) | 180 hours | 20 hours/week | [Intro to git](#git-certification) | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
 
 ## SQL Certification
 TODO
@@ -23,7 +23,7 @@ TODO
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[The Complete JavaScript Course 2020: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) | 180 hours | 20 hours/week | [Intro to git](#git-certification) | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
+[TODO](#) | 180 hours | 20 hours/week | [Intro to git](#git-certification) | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
 
 ## Spark Certification
 TODO

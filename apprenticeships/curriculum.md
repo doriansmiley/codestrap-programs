@@ -8,8 +8,7 @@
 - [Linux Certification (optional)](#linux-certification)
 - [Docker Certification](#docker-certification)
 - [AWS Certification](#aws-certification)
-- [JavaScript Certification](#javascript-certification)
-- [Final Exam](#final-exam)
+- [Pick a Track](#pick-a-track)
 
 ## Prerequisites
 - Access to linux based terminal on any of the following:
