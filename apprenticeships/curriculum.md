@@ -108,7 +108,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 
 ## Pick a Track
 
-Once you have basic developed skills you need to pick a track top pursue concentrated study is specific skills.
+Once you have developed basic skills you need to pick a track to pursue concentrated study.
 Please pick form the following tracks:
 
 1. [Web Developer](./web-developer.md). This track is ideal as a prerequisite for Front End Software Engineer apprenticeships. You will learn Javascript, HTML, CSS and React.
