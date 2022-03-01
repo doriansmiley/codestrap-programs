@@ -2,7 +2,7 @@
 
 - [Python Certification](#python-certification)
 - [SQL Certification](#sql-certification)
-- [Spark Certification](#sqark-certification)
+- [Spark Certification](#spark-certification)
 - [Final Exam](#final-exam)
 
 ## Python Certification
