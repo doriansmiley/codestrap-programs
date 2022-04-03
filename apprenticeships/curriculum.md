@@ -112,5 +112,5 @@ Once you have developed basic skills you need to pick a track to pursue concentr
 Please pick form the following tracks:
 
 1. [Web Developer](./web-developer.md). This track is ideal as a prerequisite for Front End Software Engineer apprenticeships. You will learn Javascript, HTML, CSS and React.
-1. [Foundry Data Pipelines](./data_engineering.md). Palantir Foundry is the most advanced data engineering platform today. It powers some of the most advanced edge AI initiatives on the planet. If you want a career on the cutting edge of data engineering, this is for you. You will learn Python, SQL, and Apache Spark.
+1. [Data Engineering](./data_engineering.md). Palantir Foundry is the most advanced data engineering platform today. It powers some of the most advanced edge AI initiatives on the planet. If you want a career on the cutting edge of data engineering, this is for you. You will learn Python, SQL, and Apache Spark.
 
