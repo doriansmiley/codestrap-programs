@@ -1,6 +1,6 @@
 # Curriculum
 
-**Curriculum version**: `0.0.1` (see [CHANGELOG](../CHANGELOG.md))
+**Curriculum version**: `1.0.0` (see [CHANGELOG](../CHANGELOG.md))
 
 - [Prerequisites](#prerequisites)
 - [The Command Line](#the-command-line)
@@ -8,8 +8,7 @@
 - [Linux Certification (optional)](#linux-certification)
 - [Docker Certification](#docker-certification)
 - [AWS Certification](#aws-certification)
-- [JavaScript Certification](#javascript-certification)
-- [Final Exam](#final-exam)
+- [Pick a Track](#pick-a-track)
 
 ## Prerequisites
 - Access to linux based terminal on any of the following:
@@ -107,44 +106,11 @@ Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [AWS Certified Solutions Architect Associate](https://acloud.guru/overview/aws-certified-solutions-architect-associate) | 80 hours | 20 hours/week | [The Command Line](#the-command-line) | [chat](https://discord.com/channels/787748295346356245/787750442343989299)
 
-## Javascript Certification
-This is an all in one course from Udemy. It appears to be the most popular
-and covers virtually everything you need to enter the world of programming in Javascript.
+## Pick a Track
 
-**Topics covered**:
-`javaScript fundamentals`
-`object oriented programmong`
-`asynchronous javaScript`
-`modern tools likw NPM, Parcel, Babel and ES6 modules`
+Once you have developed basic skills you need to pick a track to pursue concentrated study.
+Please pick form the following tracks:
 
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[The Complete JavaScript Course 2020: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) | 180 hours | 20 hours/week | [Intro to git](#git-certification) | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
+1. [Web Developer](./web-developer.md). This track is ideal as a prerequisite for Front End Software Engineer apprenticeships. You will learn Javascript, HTML, CSS and React.
+1. [Foundry Data Pipelines](./data_engineering.md). Palantir Foundry is the most advanced data engineering platform today. It powers some of the most advanced edge AI initiatives on the planet. If you want a career on the cutting edge of data engineering, this is for you. You will learn Python, SQL, and Apache Spark.
 
-## Final Exam
-
-Once you have developed skills you will need a way to gain 
-experience. There are three good ways to gain the experience to get you hired.
-
-1. [Stack overflow](https://stackoverflow.com/). This is a website that helps software engineers find answers to bugs and common problems. 
-If you build up a high rank on stack overflow it will help get your foot in the door.
-1. [Hacker Rank](https://www.hackerrank.com/auth/signup). Hacker Rank lets developers solve challenges to earn points. Recruiters can then request interviews with top-ranked coders. This is an awesome resource!
-1. Contribute to at least one popular open source project for six months. Some popular javascript projects are below:
-
-- [The Serverless Framework](https://github.com/serverless/)
-- [HTML5 Boiler Plate](https://github.com/h5bp/html5-boilerplate)
-- [airbnb/javascript](https://github.com/airbnb/javascript)
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-- [three.js](https://github.com/mrdoob/three.js)
-- [d3](https://github.com/d3/d3)
-
-Chat is [here](https://discord.com/channels/787748295346356245/787750808413667398). To see the latest trending projects click [here](https://github.com/trending/javascript).
-<!--
-## Course Links
-[Learn HTML](https://www.codecademy.com/learn/learn-html) | 9 hours | 8 hours/week | na | na
-[Learn XML Crash Course](https://www.udemy.com/course/learn-xml-crash-course/) | 2 hours | 8 hours/week | na | na
-[XML and XML Schema Definition in Easy Steps](https://www.udemy.com/course/xml-and-xml-schema-definition-in-easy-steps/) | 2 hours | 8 hours/week | na | na
-[JSON in Action](Introduction to JavaScript Object Notation) | 1.5 hours | 2 hours/week | na | na
-[Exam 98-382: Introduction to Programming Using JavaScript](https://docs.microsoft.com/en-us/learn/certifications/exams/98-382) | 80 hours | 20 hours/week | [Red Hat Certified System Administrator (EX200)](https://acloud.guru/overview/78f2cd85-fed7-4b70-aa02-63b9b3dc2e35) | [chat](https://discord.gg/syA242Z)
-
--->
