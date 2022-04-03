@@ -1,4 +1,15 @@
-We have no official releases at this time.
+## Release v2.0.1
+* Release date: 4/3/2022
+
+## What's Changed
+* Minor changes to descriptions and release notes
+
+## New Contributors
+* pushed directly to main
+* 
+**Full Changelog**: https://github.com/doriansmiley/codestrap-programs/commits/v2.0.1
+
+
 ## Release v2.0.0
 * Release date: 4/3/2022
 
