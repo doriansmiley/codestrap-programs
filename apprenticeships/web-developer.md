@@ -1,5 +1,6 @@
 **Curriculum version**: `1.0.0` (see [CHANGELOG](../CHANGELOG.md))
 
+- [HTML Certification](#html-certification)
 - [JavaScript Certification](#javascript-certification)
 - [React Certification](#react-certification)
 - [Final Exam](#final-exam)

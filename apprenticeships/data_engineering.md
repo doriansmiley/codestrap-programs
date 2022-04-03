@@ -52,7 +52,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [PySpark Certification Training](https://www.edureka.co/pyspark-certification-training) | 120 hours | 20 hours/week | [Python Certification](#python-certification), [SQL Certification](#sql-certification) | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
 
-## Statistics and ML Certification
+## Statistics and ML Certification (optional)
 This MicroMasters program in Statistics and Data Science is comprised of four online courses and a virtually proctored exam that will provide you with the foundational knowledge essential to understanding the methods and tools used in data science, and hands-on training in data analysis and machine learning. You will dive into the fundamentals of probability and statistics, as well as learn, implement, and experiment with data analysis techniques and machine learning algorithms. This program will prepare you to become an informed and effective practitioner of data science who adds value to an organization. The program certificate can be applied, for admitted students, towards a PhD in Social and Engineering Systems (SES) through the MIT Institute for Data, Systems, and Society (IDSS) or may accelerate your path towards a Master’s degree at other universities around the world.
 
 **Topics covered**:
