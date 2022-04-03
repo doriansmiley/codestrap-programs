@@ -4,29 +4,64 @@
 - [React Certification](#react-certification)
 - [Final Exam](#final-exam)
 
-## Javascript Certification
-This is an all in one course from Udemy. It appears to be the most popular
-and covers virtually everything you need to enter the world of programming in Javascript.
+## HTML Certification
+You will be able to build the structure of a website using several HTML elements like headings, paragraphs, images, links, etc. You will also be able to master in building a single webpage or several webpages by implementing the hands-on demonstrations. You will go through all the HTML prerequisites in this course.
 
 **Topics covered**:
-`javaScript fundamentals`
-`object oriented programmong`
-`asynchronous javaScript`
-`modern tools likw NPM, Parcel, Babel and ES6 modules`
+* Introduction to HTML
+* Writing HTML Code
+* HTML Tags
+* HTML Basic Tags
+* HTML Text Tags
+* Semantic Elements in HTML5
+* Effects of Physical Character Tags
+* Effects of Logical Character Tags
+* Manage Document Spacing in HTML
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[The Complete JavaScript Course 2020: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) | 180 hours | 20 hours/week | [Intro to git](#git-certification) | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
+[HTML Certification](https://www.edureka.co/html-certification-course) | 100 hours | 20 hours/week | [Intro to git](./curriculum.md) | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
+
+## Javascript Certification
+This course is completely hands-on and you will get acquainted with core topics such as JavaScript variables, data types, functions, objects, classes, operators, parameters, and get familiar with advanced topics such as Script validation and API testing.
+
+**Topics covered**:
+* Evolution of JavaScript
+* Java Vs. JavaScript
+* JavaScript Syntax
+* JavaScript Popup boxes
+* Datatypes and Variables in JavaScript
+* Strings and Arrays in JavaScript
+* Type Conversions in JavaScript
+* Operators in JavaScript
+* Spread Operator
+* Conditional Statements in JavaScript
+* Looping Statements in JavaScript
+
+Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--:
+[Javascript Certification Training](https://www.edureka.co/javascript-certification-training) | 100 hours | 20 hours/week | [Intro to git](./curriculum.md) | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
 
 ## React Certification
-TODO
+In this React Course, you will learn how to build simple components & integrate them into more complex design components. After completing this React online training, you will be able to build the applications using React concepts such as JSX, Redux, Asynchronous Programming using Redux-Saga middleware, Fetch data using GraphQL, perform Testing using Jest, successively Deploy applications using Nginx and Docker, plus build Mobile applications using React Native
 
 **Topics covered**:
-`TODO`
+* Building Blocks of Web Application Development
+* Single-page and Multi-page Applications
+* Different Client-side Technologies
+* MVC Architecture
+* Introduction to React
+* Installation of React
+* JSX and its use case
+* DOM
+* Virtual DOM and its working
+* ECMAScript
+* Difference between ES5 and ES6
+* NPM Modules
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[TODO](#) | 180 hours | 20 hours/week | [Intro to git](#git-certification) | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
+[React Certification](https://www.edureka.co/reactjs-redux-certification-training) | 100 hours | 20 hours/week | [Intro to git](./curriculum.md) | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
 
 ## Final Exam
 Once you have developed skills you will need a way to gain
