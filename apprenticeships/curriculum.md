@@ -1,6 +1,6 @@
 # Curriculum
 
-**Curriculum version**: `1.0.0` (see [CHANGELOG](../CHANGELOG.md))
+**Curriculum version**: `2.0.0` (see [CHANGELOG](../CHANGELOG.md))
 
 - [Prerequisites](#prerequisites)
 - [The Command Line](#the-command-line)
