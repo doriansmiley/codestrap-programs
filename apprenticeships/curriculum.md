@@ -7,7 +7,7 @@
 - [Intro to git](#git-certification)
 - [Linux Certification (optional)](#linux-certification)
 - [Docker Certification](#docker-certification)
-- [AWS Certification](#aws-certification)
+- [AWS Certification (optional)](#aws-certification)
 - [Pick a Track](#pick-a-track)
 
 ## Prerequisites
@@ -85,7 +85,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Docker Certified Associate (DCA)](https://acloud.guru/overview/6b00566d-6246-4ebe-8257-f98f989321cf) | 60 hours | 20 hours/week | [The Command Line](#the-command-line) | [chat](https://discord.com/channels/787748295346356245/787750314711318537)
 
-## AWS Certification
+## AWS Certification (optional)
 Amazon Web Services (AWS) is the leading cloud computing platform in the world.
 Master the essentials of AWS and earn a valuable job skill. 
 No programming knowledge is needed, and no prior AWS experience required.
