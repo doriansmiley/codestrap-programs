@@ -33,6 +33,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Intro to Linux](https://acloud.guru/overview/5771281c-ed59-463d-9e37-5f598a163913) | 2 hours | 2 hours/week | none | [chat](https://discord.com/channels/787748295346356245/787748295908655200)
 [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line) | 8 hours | 8 hours/week | none | [chat](https://discord.com/channels/787748295346356245/787748295908655200)
 [Text Editing with Vim Vi iMproved](https://acloud.guru/overview/be02e4b7-edf6-49b8-970d-7b322bbd862b) | 18 hours | 8 hours/week | [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line) | [chat](https://discord.com/channels/787748295346356245/787748295908655200)
+[LPI Linux Essentials Certification](https://acloudguru.com/course/lpi-linux-essentials-certification) | 16 hours | 8 hours/week | [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line) | [chat](https://discord.com/channels/787748295346356245/787748295908655200)
 [The System Administrator's Guide to Bash Scripting](https://acloud.guru/overview/bccc6769-38e7-4a7f-8255-6914b7244caf) | 16 hours | 8 hours/week | [Text Editing with Vim Vi iMproved](https://acloud.guru/overview/be02e4b7-edf6-49b8-970d-7b322bbd862b) | [chat](https://discord.com/channels/787748295346356245/787748295908655200)
 [YAML Essentials](https://acloud.guru/overview/90dd551f-91a6-4b91-a0a8-d4905521f641) | 3 hours | 3 hours/week | [The System Administrator's Guide to Bash Scripting](https://acloud.guru/overview/bccc6769-38e7-4a7f-8255-6914b7244caf) | [chat](https://discord.com/channels/787748295346356245/787748295908655200)
 [YouTube Videos](https://www.youtube.com/playlist?list=PLvp1Riqm5kiO3ZTqqD6rwuwws6ulbiWoW) | 3 hours | na | na | na
@@ -53,7 +54,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Source Control with Git](https://acloud.guru/overview/104ff5d6-39c0-4116-b597-4d1bce0b8081) | 20 hours | 20 hours/week | [Markdown Mastery](https://www.udemy.com/course/markdown/) | [chat](https://discord.com/channels/787748295346356245/787750027916738610)
 
 ## Linux Certification
-Linux is everywhere! Nearly all the worlds servers run Linux. This makes Linux a valuable job skill in its own right. 
+This is an optional course. Linux is everywhere! Nearly all the worlds servers run Linux. This makes Linux a valuable job skill in its own right. 
 If you are enjoying bash, and want to cultivate an employable job skill immediately, obtain your linux certification with this **optional** course.
 After completing this course you will be ready to take your certification exams:
 - [Red Hat Certified System Administrator (EX200) - RHCSA](https://www.redhat.com/en/services/certification/rhcsa)
