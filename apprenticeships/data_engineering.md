@@ -11,7 +11,6 @@ courses will give you foundational knowledge to be productive in data engineerin
 Palantir Foundry, Databricks, and Spark.
 
 **Topics covered**:
-`TODO`
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
@@ -21,7 +20,6 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Python Certification Course](https://acloudguru.com/course/certified-associate-in-python-programming-certification-pcap-31-03) | 20 hours | 20 hours/week | [Core Curriculum](./curriculum.md), All courses above | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
 
 ## SQL Certification
-TODO
 
 **Topics covered**:
 * Knowledge of all the essential SQL commands

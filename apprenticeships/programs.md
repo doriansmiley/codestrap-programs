@@ -10,8 +10,8 @@ IBM has a number of apprenticeship programs you can view [here](https://www.ibm.
 Our [curriculum](./curriculum.md) is tailored to the [Software Engineer Apprenticeship](https://www.ibm.com/us-en/employment/newcollar/apprenticeships/#jobs?%23jobs=&country=United%2520States&job-category=Software%2520Development%2520%2526%2520Support&experience=Entry%2520Level).
 
 #### Microsoft
-The [Microsoft Leap program](https://www.youtube.com/channel/UCzoL_8duwxFvh_H98kGaemA) was launched in 2015 and is perhaps the most mature of all apprenticeship programs.
-Our [curriculum](./curriculum.md) is tailored to the [Software Engineer Apprenticeship](https://www.microsoft.com/en-us/leap/pathways/software-engineering/).
+The [Microsoft Leap program](https://www.microsoft.com/en-us/leap/) was launched in 2015 and is perhaps the most mature of all apprenticeship programs.
+Our [curriculum](./curriculum.md) is tailored to the [Software Engineer Apprenticeship](https://www.microsoft.com/en-us/leap/pathways/software-engineer/).
 
 #### Google
 Google has launched [Grow with Google](https://grow.google/). This is a long term commitment from Google to provide a path to prosperity through hands on real world experience! 
