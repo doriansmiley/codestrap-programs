@@ -172,7 +172,7 @@ is required to receive a certification.
 - https://www.palantir.com/docs/foundry/building-pipelines/maintaining-incremental-performance/
 
 # Contour
-https://www.palantir.com/docs/foundry/contour/overview/
-https://www.palantir.com/docs/foundry/contour/getting-started/
-https://www.palantir.com/docs/foundry/contour/core-concepts/
+- https://www.palantir.com/docs/foundry/contour/overview/
+- https://www.palantir.com/docs/foundry/contour/getting-started/
+- https://www.palantir.com/docs/foundry/contour/core-concepts/
 
