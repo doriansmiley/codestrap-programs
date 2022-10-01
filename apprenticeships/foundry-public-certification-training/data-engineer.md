@@ -176,3 +176,14 @@ is required to receive a certification.
 - https://www.palantir.com/docs/foundry/contour/getting-started/
 - https://www.palantir.com/docs/foundry/contour/core-concepts/
 
+# Ontology & Outcomes
+- https://www.palantir.com/docs/foundry/ontology/overview/
+- https://www.palantir.com/docs/foundry/ontology/models/
+- https://www.palantir.com/docs/foundry/ontology/core-concepts/
+- https://www.palantir.com/docs/foundry/ontology/applications/
+- https://www.palantir.com/docs/foundry/object-link-types/object-types-overview/
+- https://www.palantir.com/docs/foundry/object-link-types/create-object-type/
+- https://www.palantir.com/docs/foundry/object-link-types/edit-object-type/
+- https://www.palantir.com/docs/foundry/object-link-types/manage-object-security/
+- https://www.palantir.com/docs/foundry/object-link-types/copy-object-type-config/
+- https://www.palantir.com/docs/foundry/object-link-types/object-type-metadata/
