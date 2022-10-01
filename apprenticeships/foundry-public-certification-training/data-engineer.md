@@ -187,3 +187,4 @@ is required to receive a certification.
 - https://www.palantir.com/docs/foundry/object-link-types/manage-object-security/
 - https://www.palantir.com/docs/foundry/object-link-types/copy-object-type-config/
 - https://www.palantir.com/docs/foundry/object-link-types/object-type-metadata/
+- https://www.palantir.com/docs/foundry/getting-started/delivering-a-use-case/
