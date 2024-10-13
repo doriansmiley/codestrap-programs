@@ -16,12 +16,12 @@ Palantir Foundry, Databricks, and Spark.
 
 **Topics covered**:
 
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
+Courses | Duration | Effort | Discussion
+:-- | :--: | :--: | :--:
 [Introduction To Python Scripting](https://acloudguru.com/course/introduction-to-python-scripting) | 5 hours | 5 hours/week | [Core Curriculum](./curriculum.md) | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
 [Introduction To Python Development](https://acloudguru.com/course/introduction-to-python-development) | 20 hours | 20 hours/week | [Core Curriculum](./curriculum.md), Introduction To Python Scripting | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
 [Python Use Cases](https://acloudguru.com/course/programming-use-cases-with-python) | 5 hours | 5 hours/week | [Core Curriculum](./curriculum.md), Introduction To Python Development | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
-[Python Certification Course](https://acloudguru.com/course/certified-associate-in-python-programming-certification-pcap-31-03) | 20 hours | 20 hours/week | [Core Curriculum](./curriculum.md), All courses above | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
+[Python Certification Course](https://acloudguru.com/course/certified-associate-in-python-programming-certification-pcap-31-03) | 20 hours | 20 hours/week | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
 
 ## SQL Certification
 
@@ -33,10 +33,10 @@ Courses | Duration | Effort | Prerequisites | Discussion
 * Master SQL's most popular string, mathematical and date-time functions
 * Increase your efficiency by learning the best practices while writing SQL queries
 
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
+Courses | Duration | Effort | Discussion
+:-- | :--: | :--: | :--:
 [SQL Basics](https://acloudguru.com/course/database-administration-and-sql-language-basics) | 20 hours | 20 hours/week | [Core Curriculum](./curriculum.md) | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
-[SQL Masterclass](https://www.udemy.com/course/the-complete-sql-masterclass-for-data-analytics/) | 40 hours | 20 hours/week | [Core Curriculum](./curriculum.md), SQL Basics | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
+[SQL Masterclass](https://www.udemy.com/course/the-complete-sql-masterclass-for-data-analytics/) | 40 hours | 20 hours/week | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
 
 ## Spark Certification
 Apache Spark is an open-source unified analytics engine for large-scale data processing. Spark provides an interface for programming clusters with implicit data parallelism and fault tolerance.
@@ -50,9 +50,9 @@ Spark is a key component of platforms such as Palantir Foundry and Databricks, m
 * Big Data Analytics with Batch & Real-Time Processing
 * PySpark
 
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[PySpark Certification Training](https://www.edureka.co/pyspark-certification-training) | 120 hours | 20 hours/week | [Python Certification](#python-certification), [SQL Certification](#sql-certification) | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
+Courses | Duration | Effort | Discussion
+:-- | :--: | :--: | :--:
+[PySpark Certification Training](https://www.edureka.co/pyspark-certification-training) | 120 hours | 20 hours/week | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
 
 ## Statistics and ML Certification (optional)
 This MicroMasters program in Statistics and Data Science is comprised of four online courses and a virtually proctored exam that will provide you with the foundational knowledge essential to understanding the methods and tools used in data science, and hands-on training in data analysis and machine learning. You will dive into the fundamentals of probability and statistics, as well as learn, implement, and experiment with data analysis techniques and machine learning algorithms. This program will prepare you to become an informed and effective practitioner of data science who adds value to an organization. The program certificate can be applied, for admitted students, towards a PhD in Social and Engineering Systems (SES) through the MIT Institute for Data, Systems, and Society (IDSS) or may accelerate your path towards a Master’s degree at other universities around the world.
@@ -65,7 +65,7 @@ This MicroMasters program in Statistics and Data Science is comprised of four on
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Mitx Statistics & Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science/) | 756 hours | 14 hours/week | [Core Curriculum](./curriculum.md), [Python Certification](#python-certification), College level calculus | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
+[Mitx Statistics & Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science/) | 756 hours | 14 hours/week | [Python Certification](#python-certification), College level calculus | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
 
 ## Mitx Supply Chain Management (optional)
 Gain expertise in the growing field of Supply Chain Management through an innovative online program consisting of five courses and a final capstone exam. The MicroMasters Program in Supply Chain from MITx is an advanced, professional, graduate-level foundation in Supply Chain Management.
@@ -80,7 +80,7 @@ Gain expertise in the growing field of Supply Chain Management through an innova
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Mitx Supply Chain Management](https://www.edx.org/micromasters/mitx-supply-chain-management) | 936 hours | 14 hours/week | [Core Curriculum](./curriculum.md), [Python Certification](#python-certification), College level calculus | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
+[Mitx Supply Chain Management](https://www.edx.org/micromasters/mitx-supply-chain-management) | 936 hours | 14 hours/week | [Python Certification](#python-certification), College level calculus | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
 
 ## Final Exam
 Once you have developed skills you will need a way to gain
