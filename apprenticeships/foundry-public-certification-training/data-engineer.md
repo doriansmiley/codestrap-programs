@@ -18,9 +18,9 @@ Palantir Foundry, Databricks, and Spark.
 
 Courses | Duration | Effort | Discussion
 :-- | :--: | :--: | :--:
-[Introduction To Python Scripting](https://acloudguru.com/course/introduction-to-python-scripting) | 5 hours | 5 hours/week | [Core Curriculum](./curriculum.md) | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
-[Introduction To Python Development](https://acloudguru.com/course/introduction-to-python-development) | 20 hours | 20 hours/week | [Core Curriculum](./curriculum.md), Introduction To Python Scripting | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
-[Python Use Cases](https://acloudguru.com/course/programming-use-cases-with-python) | 5 hours | 5 hours/week | [Core Curriculum](./curriculum.md), Introduction To Python Development | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
+[Introduction To Python Scripting](https://acloudguru.com/course/introduction-to-python-scripting) | 5 hours | 5 hours/week | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
+[Introduction To Python Development](https://acloudguru.com/course/introduction-to-python-development) | 20 hours | 20 hours/week | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
+[Python Use Cases](https://acloudguru.com/course/programming-use-cases-with-python) | 5 hours | 5 hours/week | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
 [Python Certification Course](https://acloudguru.com/course/certified-associate-in-python-programming-certification-pcap-31-03) | 20 hours | 20 hours/week | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
 
 ## SQL Certification
@@ -35,7 +35,7 @@ Courses | Duration | Effort | Discussion
 
 Courses | Duration | Effort | Discussion
 :-- | :--: | :--: | :--:
-[SQL Basics](https://acloudguru.com/course/database-administration-and-sql-language-basics) | 20 hours | 20 hours/week | [Core Curriculum](./curriculum.md) | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
+[SQL Basics](https://acloudguru.com/course/database-administration-and-sql-language-basics) | 20 hours | 20 hours/week | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
 [SQL Masterclass](https://www.udemy.com/course/the-complete-sql-masterclass-for-data-analytics/) | 40 hours | 20 hours/week | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
 
 ## Spark Certification
