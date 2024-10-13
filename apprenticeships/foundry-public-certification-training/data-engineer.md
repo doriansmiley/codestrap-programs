@@ -1,190 +1,101 @@
-# Overview
-Palantir certification training is currently closed to the public. I have been given access to the training materials
-and created these study guides using public information that covers the same topics to help prepare you for certification
-training.
+# Palantir Foundry Foundations - Data Engineer
+**Curriculum version**: `1.0.0` (see [CHANGELOG](../CHANGELOG.md))
 
-**IMPORTANT**: You will need additional training and a Foundry stack to prepare you for certification!
+## Introduction
+This curriculum is designed to help prepare you for [Palantir Data Engineer](https://learn.palantir.com/page/training-track-data-engineer) training and certification.
 
-**IMPORTANT**: These guides should not be used as a prerequisite to taking your exam! They are designed to get you
-ahead of the learning curve if and when certification is open to the public.
-There is no warranty implied or otherwise made as to the quality of the guide relative to your exam performance!
+- [Python Certification](#python-certification)
+- [SQL Certification](#sql-certification)
+- [Spark Certification](#spark-certification)
+- [Final Exam](#final-exam)
 
-**IMPORTANT**: These guides are subject to change without notice! Check back regularly for updates or subscribe to this repo.
+## Python Certification
+Python is an extremely popular programming language for machine learning and data engineering. The provided
+courses will give you foundational knowledge to be productive in data engineering platforms and tools like 
+Palantir Foundry, Databricks, and Spark.
 
-# Exam Format
-The exam is composed of 60 multiple-choice questions across a variety of subtopics within the
-selected certification track. You will have 120 minutes to complete the exam, and a passing score of 70%
-is required to receive a certification.
+**Topics covered**:
 
-# Intro concepts
-- https://www.palantir.com/docs/foundry/platform-overview/overview/
-- https://www.palantir.com/docs/foundry/getting-started/overview/
+Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--:
+[Introduction To Python Scripting](https://acloudguru.com/course/introduction-to-python-scripting) | 5 hours | 5 hours/week | [Core Curriculum](./curriculum.md) | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
+[Introduction To Python Development](https://acloudguru.com/course/introduction-to-python-development) | 20 hours | 20 hours/week | [Core Curriculum](./curriculum.md), Introduction To Python Scripting | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
+[Python Use Cases](https://acloudguru.com/course/programming-use-cases-with-python) | 5 hours | 5 hours/week | [Core Curriculum](./curriculum.md), Introduction To Python Development | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
+[Python Certification Course](https://acloudguru.com/course/certified-associate-in-python-programming-certification-pcap-31-03) | 20 hours | 20 hours/week | [Core Curriculum](./curriculum.md), All courses above | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
 
-# Data Governance and Security
-- https://www.palantir.com/docs/foundry/security/data-protection-and-governance/
+## SQL Certification
 
-# Foundry Suite Awareness
-- https://www.palantir.com/docs/foundry/ontology/overview/
-- https://www.palantir.com/docs/foundry/analytics/overview/
-- https://www.palantir.com/docs/foundry/ontology/applications/
+**Topics covered**:
+* Knowledge of all the essential SQL commands
+* Become competent in using sorting and filtering commands in SQL
+* Enhance the performance of your Database by using Views and Indexes
+* Become proficient in SQL tools like GROUP BY, JOINS and Subqueries
+* Master SQL's most popular string, mathematical and date-time functions
+* Increase your efficiency by learning the best practices while writing SQL queries
 
-# Security & Permissions
-- https://www.palantir.com/docs/foundry/security/overview/
-- https://www.palantir.com/docs/foundry/security/shared-security-responsibility-model/
-- https://www.palantir.com/docs/foundry/security/checking-permissions/
-- https://www.palantir.com/docs/foundry/security/data-protection-and-governance/
-- https://www.palantir.com/docs/foundry/security/orgs-and-namespaces/
-- https://www.palantir.com/docs/foundry/security/projects-and-roles/
-- https://www.palantir.com/docs/foundry/security/users-and-groups/
-- https://www.palantir.com/docs/foundry/security/markings/
-- https://www.palantir.com/docs/foundry/security/restricted-views/
-- https://www.palantir.com/docs/foundry/security/tags/
-- https://www.palantir.com/docs/foundry/data-lineage/check-permissions/
+Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--:
+[SQL Basics](https://acloudguru.com/course/database-administration-and-sql-language-basics) | 20 hours | 20 hours/week | [Core Curriculum](./curriculum.md) | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
+[SQL Masterclass](https://www.udemy.com/course/the-complete-sql-masterclass-for-data-analytics/) | 40 hours | 20 hours/week | [Core Curriculum](./curriculum.md), SQL Basics | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
 
-# Projects
-- https://www.palantir.com/docs/foundry/projects/overview/
-- https://www.palantir.com/docs/foundry/projects/core-concepts/
-- https://www.palantir.com/docs/foundry/security/projects-and-roles/
+## Spark Certification
+Apache Spark is an open-source unified analytics engine for large-scale data processing. Spark provides an interface for programming clusters with implicit data parallelism and fault tolerance.
+Spark is a key component of platforms such as Palantir Foundry and Databricks, making it the cornerstone of the data engineering stack. 
 
-# Architecture / Palantir Foundry Core
-- https://www.palantir.com/docs/foundry/platform-overview/architecture/
-- https://www.palantir.com/docs/foundry/data-integration/overview/
-- https://www.palantir.com/docs/foundry/data-connection/overview/
-- https://www.palantir.com/docs/foundry/data-connection/core-concepts/
-- https://www.palantir.com/docs/foundry/data-connection/architecture/
-- https://www.palantir.com/docs/foundry/data-connection/initial-setup-overview/
-- https://www.palantir.com/docs/foundry/data-connection/set-up-agent/
-- https://www.palantir.com/docs/foundry/data-connection/agents-troubleshooting/
-- https://www.palantir.com/docs/foundry/data-connection/set-up-source/
-- https://www.palantir.com/docs/foundry/data-connection/set-up-cloud-source/
-- https://www.palantir.com/docs/foundry/data-connection/set-up-sync/
+**Topics covered**:
+* Apply Spark programming basics, including parallel programming basics forDataFrames, data sets, and Spark SQL.
+* Hadoop Ecosystem, Core Components and HDFS
+* YARN and its Advantage
+* Hadoop Cluster and its Architecture
+* Big Data Analytics with Batch & Real-Time Processing
+* PySpark
 
-# Additional API enabled Foundry Connections
-- https://www.palantir.com/docs/foundry/analytics-connectivity/overview/
+Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--:
+[PySpark Certification Training](https://www.edureka.co/pyspark-certification-training) | 120 hours | 20 hours/week | [Python Certification](#python-certification), [SQL Certification](#sql-certification) | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
 
-# Code Workbook
-- https://www.palantir.com/docs/foundry/code-workbook/overview/
-- https://www.palantir.com/docs/foundry/code-workbook/getting-started/
-- https://www.palantir.com/docs/foundry/code-workbook/core-concepts/
-- https://www.palantir.com/docs/foundry/code-workbook/workbooks-overview/
-- https://www.palantir.com/docs/foundry/code-workbook/workbooks-languages/
-- https://www.palantir.com/docs/foundry/code-workbook/workbooks-console/
-- https://www.palantir.com/docs/foundry/code-workbook/workbooks-global-code/
-- https://www.palantir.com/docs/foundry/code-workbook/workbooks-production/
-- https://www.palantir.com/docs/foundry/code-workbook/transforms-overview/
-- https://www.palantir.com/docs/foundry/code-workbook/transforms-visualize/
-- https://www.palantir.com/docs/foundry/code-workbook/present-visualizations/
-- https://www.palantir.com/docs/foundry/code-workbook/transforms-unstructured/
-- https://www.palantir.com/docs/foundry/code-workbook/transforms-spark/
-- https://www.palantir.com/docs/foundry/code-workbook/templates-overview/
-- https://www.palantir.com/docs/foundry/code-workbook/templates-getting-started/
-- https://www.palantir.com/docs/foundry/code-workbook/templates-multi-node/
-- https://www.palantir.com/docs/foundry/code-workbook/templates-suggested/
-- https://www.palantir.com/docs/foundry/code-workbook/environment-overview/
-- https://www.palantir.com/docs/foundry/code-workbook/environment-profiles/
-- https://www.palantir.com/docs/foundry/code-workbook/environment-view-resolved/
-- https://www.palantir.com/docs/foundry/code-workbook/environment-batch-interactive/
-- https://www.palantir.com/docs/foundry/code-workbook/environment-troubleshooting/
-- https://www.palantir.com/docs/foundry/code-workbook/branching-overview/
-- https://www.palantir.com/docs/foundry/code-workbook/branching-getting-started/
-- https://www.palantir.com/docs/foundry/code-workbook/branching-merging/
-- https://www.palantir.com/docs/foundry/code-workbook/branching-imported-datasets/
-- https://www.palantir.com/docs/foundry/code-workbook/optional-data-persistence/
-- https://www.palantir.com/docs/foundry/code-workbook/code-repositories-comparison/
+## Statistics and ML Certification (optional)
+This MicroMasters program in Statistics and Data Science is comprised of four online courses and a virtually proctored exam that will provide you with the foundational knowledge essential to understanding the methods and tools used in data science, and hands-on training in data analysis and machine learning. You will dive into the fundamentals of probability and statistics, as well as learn, implement, and experiment with data analysis techniques and machine learning algorithms. This program will prepare you to become an informed and effective practitioner of data science who adds value to an organization. The program certificate can be applied, for admitted students, towards a PhD in Social and Engineering Systems (SES) through the MIT Institute for Data, Systems, and Society (IDSS) or may accelerate your path towards a Master’s degree at other universities around the world.
 
-# Code Repositories
-- https://www.palantir.com/docs/foundry/code-repositories/overview/
-- https://www.palantir.com/docs/foundry/code-repositories/navigation/
-- https://www.palantir.com/docs/foundry/code-repositories/preview-transforms/
-- https://www.palantir.com/docs/foundry/code-repositories/debug-transforms/
-- https://www.palantir.com/docs/foundry/code-repositories/use-project-references/
-- https://www.palantir.com/docs/foundry/code-repositories/analyze-impact/
-- https://www.palantir.com/docs/foundry/code-repositories/unit-tests/
-- https://www.palantir.com/docs/foundry/code-repositories/libraries/
-- https://www.palantir.com/docs/foundry/code-repositories/artifact-repositories-overview/
-- https://www.palantir.com/docs/foundry/code-repositories/artifact-repositories-nav/
-- https://www.palantir.com/docs/foundry/code-repositories/create-artifact-repository/
-- https://www.palantir.com/docs/foundry/code-repositories/delete-artifact-repository/
-- https://www.palantir.com/docs/foundry/code-repositories/publish-artifact/
-- https://www.palantir.com/docs/foundry/code-repositories/recall-artifact/
-- https://www.palantir.com/docs/foundry/code-repositories/manage-permissions/
-- https://www.palantir.com/docs/foundry/code-repositories/create-custom-checks/
-- https://www.palantir.com/docs/foundry/code-repositories/admin-overview/
-- https://www.palantir.com/docs/foundry/code-repositories/branch-settings/
-- https://www.palantir.com/docs/foundry/code-repositories/repository-settings/
-- https://www.palantir.com/docs/foundry/code-repositories/repository-upgrades/
-- https://www.palantir.com/docs/foundry/code-repositories/spark-profiles/
-- https://www.palantir.com/docs/foundry/code-repositories/artifact-settings/
-- https://www.palantir.com/docs/foundry/code-repositories/ontology-imports/
-- https://www.palantir.com/docs/foundry/code-repositories/advanced-settings/
+**Topics covered**:
+* Master the foundations of data science, statistics, and machine learning
+* Analyze big data and make data-driven predictions through probabilistic modeling and statistical inference; identify and deploy appropriate modeling and methodologies in order to extract meaningful information for decision making
+* Develop and build machine learning algorithms to extract meaningful information from seemingly unstructured data; learn popular unsupervised learning methods, including clustering methodologies and supervised methods such as deep neural networks
+* Finishing this MicroMasters program will prepare you for job titles such as: Data Scientist, Data Analyst, Business Intelligence Analyst, Systems Analyst, Data Engineer
 
-# Spark Optimization
-- https://www.palantir.com/docs/foundry/optimizing-pipelines/spark-concepts/
-- https://www.palantir.com/docs/foundry/optimizing-pipelines/understand-spark-details/
-- https://www.palantir.com/docs/foundry/optimizing-pipelines/understand-compute/
-- https://www.palantir.com/docs/foundry/optimizing-pipelines/apply-spark-profiles/
-- https://www.palantir.com/docs/foundry/optimizing-pipelines/spark-profiles-reference/
-- https://www.palantir.com/docs/foundry/transforms-python/pyspark-overview/
-- https://www.palantir.com/docs/foundry/transforms-python/pyspark-style-guide/
+Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--:
+[Mitx Statistics & Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science/) | 756 hours | 14 hours/week | [Core Curriculum](./curriculum.md), [Python Certification](#python-certification), College level calculus | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
 
-# Scheduler
-- https://www.palantir.com/docs/foundry/building-pipelines/scheduling-overview/
-- https://www.palantir.com/docs/foundry/building-pipelines/create-schedule/
-- https://www.palantir.com/docs/foundry/building-pipelines/view-modify-schedules/
-- https://www.palantir.com/docs/foundry/building-pipelines/common-schedules/
-- https://www.palantir.com/docs/foundry/building-pipelines/triggers-reference/
+## Mitx Supply Chain Management (optional)
+Gain expertise in the growing field of Supply Chain Management through an innovative online program consisting of five courses and a final capstone exam. The MicroMasters Program in Supply Chain from MITx is an advanced, professional, graduate-level foundation in Supply Chain Management.
 
-# Data Health & Expectations
-- https://www.palantir.com/docs/foundry/data-health/overview/
-- https://www.palantir.com/docs/foundry/data-health/check-types/
-- https://www.palantir.com/docs/foundry/data-health/check-evaluation/
-- https://www.palantir.com/docs/foundry/data-health/watching-checks/
-- https://www.palantir.com/docs/foundry/data-health/notifications/
-- https://www.palantir.com/docs/foundry/data-health/checks-reference/
-- https://www.palantir.com/docs/foundry/transforms-python/data-expectations-getting-started/
-- https://www.palantir.com/docs/foundry/transforms-python/data-expectations-reference/
+**Topics covered**:
+* To apply core methodologies (probability, statistics, optimization) used in supply chain modeling and analysis.
+* To understand and use fundamental models to make trade-offs between forecasting, inventory, and transportation.
+* To design supply chain networks as well as financial and information flows.
+* To understand how supply chains act as systems and interact.
+* How technology is used within supply chains from fundamentals to packaged software systems.
+* End to end supply chain management.
 
-# Job Tracker
-- https://www.palantir.com/docs/foundry/data-integration/builds/
-- https://www.palantir.com/docs/foundry/data-integration/application-reference/#job-tracker
+Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--:
+[Mitx Supply Chain Management](https://www.edx.org/micromasters/mitx-supply-chain-management) | 936 hours | 14 hours/week | [Core Curriculum](./curriculum.md), [Python Certification](#python-certification), College level calculus | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
 
-# Data Lineage
-- https://www.palantir.com/docs/foundry/data-lineage/overview/
-- https://www.palantir.com/docs/foundry/data-lineage/navigation/
-- https://www.palantir.com/docs/foundry/data-lineage/explore-lineage/
-- https://www.palantir.com/docs/foundry/data-lineage/explore-artifacts/
-- https://www.palantir.com/docs/foundry/data-lineage/save-share-graph/
-- https://www.palantir.com/docs/foundry/data-lineage/node-coloring/
-- https://www.palantir.com/docs/foundry/data-lineage/elements-reference/
-- https://www.palantir.com/docs/foundry/data-lineage/dataset-preview-logic/
-- https://www.palantir.com/docs/foundry/data-lineage/build-timeline/
-- https://www.palantir.com/docs/foundry/data-lineage/stale-datasets/
-- https://www.palantir.com/docs/foundry/data-lineage/find-column/
-- https://www.palantir.com/docs/foundry/data-lineage/build-datasets/
-- https://www.palantir.com/docs/foundry/data-lineage/manage-schedules/
+## Final Exam
+Once you have developed skills you will need a way to gain
+experience. There are three good ways to gain the experience to get you hired.
 
-# Pipeline Concepts & Best Practices
-- https://www.palantir.com/docs/foundry/building-pipelines/overview/
-- https://www.palantir.com/docs/foundry/building-pipelines/pipeline-types/
-- https://www.palantir.com/docs/foundry/building-pipelines/supported-languages/
-- https://www.palantir.com/docs/foundry/building-pipelines/incremental-overview/
-- https://www.palantir.com/docs/foundry/building-pipelines/create-incremental-syncs/
-- https://www.palantir.com/docs/foundry/building-pipelines/maintaining-incremental-performance/
+1. [Stack overflow](https://stackoverflow.com/). This is a website that helps software engineers find answers to bugs and common problems.
+   If you build up a high rank on stack overflow it will help get your foot in the door.
+1. [Hacker Rank](https://www.hackerrank.com/auth/signup). Hacker Rank lets developers solve challenges to earn points. Recruiters can then request interviews with top-ranked coders. This is an awesome resource!
+1. Contribute to at least one popular open source project for six months. Some popular projects are below:
 
-# Contour
-- https://www.palantir.com/docs/foundry/contour/overview/
-- https://www.palantir.com/docs/foundry/contour/getting-started/
-- https://www.palantir.com/docs/foundry/contour/core-concepts/
+- [TensorFlow Models](https://github.com/tensorflow/models)
+- [Keras](https://github.com/keras-team/keras)
+- [Flask](hhttps://github.com/pallets/flask)
+- [Zulip](https://github.com/zulip/zulip)
+- [Palantir Spark](https://github.com/palantir/spark)
 
-# Ontology & Outcomes
-- https://www.palantir.com/docs/foundry/ontology/overview/
-- https://www.palantir.com/docs/foundry/ontology/models/
-- https://www.palantir.com/docs/foundry/ontology/core-concepts/
-- https://www.palantir.com/docs/foundry/ontology/applications/
-- https://www.palantir.com/docs/foundry/object-link-types/object-types-overview/
-- https://www.palantir.com/docs/foundry/object-link-types/create-object-type/
-- https://www.palantir.com/docs/foundry/object-link-types/edit-object-type/
-- https://www.palantir.com/docs/foundry/object-link-types/manage-object-security/
-- https://www.palantir.com/docs/foundry/object-link-types/copy-object-type-config/
-- https://www.palantir.com/docs/foundry/object-link-types/object-type-metadata/
-- https://www.palantir.com/docs/foundry/getting-started/delivering-a-use-case/
+Chat is [here](https://discord.com/channels/787748295346356245/787750808413667398). To see the latest trending projects click [here](https://github.com/trending/python).
+

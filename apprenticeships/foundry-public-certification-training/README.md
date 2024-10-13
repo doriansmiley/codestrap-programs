@@ -1,23 +1,22 @@
-# About These Study Guides 
 
-Palantir certification training is currently closed to the public. I have been given access to the training materials
-and created these study guides using public information that covers the same topics to help prepare you for certification
-training. 
+# Palantir Foundry Foundations
 
-**IMPORTANT**: You will need additional training and a Foundry stack to prepare you for certification!
+Learn the foundation skills to enroll in Palantir Foundry training and earn your certifications.
 
-**IMPORTANT**: These guides should not be used as a prerequisite to taking your exam! They are designed to get you
-ahead of the learning curve if and when certification is open to the public. 
-There is no warranty implied or otherwise made as to the quality of the guide relative to your exam performance!
+## About These Study Guides 
+
+Palantir certification training is now open to the public. These guides are designed for students and individuals who would like to master the prerequisite skills required to enroll in a Palantir Foundry certification program. They are not certification training themselves. For information on Palantir's training and certification program visit [learn.palantir.com](https://learn.palantir.com/)
+
+**IMPORTANT**: You will need additional training and a Foundry stack to prepare you for certification! To sign up for a Foundry stack visit [build.palantir.com](https://build.palantir.com). To enroll in official training visit [learn.palantir.com](https://learn.palantir.com/).
 
 **IMPORTANT**: These guides are subject to change without notice! Check back regularly for updates or subscribe to this repo.
 
-# Pull Requests Welcome
+## Pull Requests Welcome
 
 If you are a certified Foundry developer and would like to contribute to these study guides pleas read the
 [contributing guide](../../CONTRIBUTING.md) and issue a PR.
 
-# Overview
+## Overview
 
 Palantir certification is divided into four tracks which are listed below. Click on a track to explore the study guide.
 
