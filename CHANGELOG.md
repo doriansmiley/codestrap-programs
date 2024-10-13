@@ -1,3 +1,13 @@
+## Release v3.0.0
+* Release date: 10/13/2024
+
+## What's Changed
+* Major changes to the Foundry Engineering Track
+
+## New Contributors
+* pushed directly to main
+* 
+
 ## Release v2.0.1
 * Release date: 4/3/2022
 

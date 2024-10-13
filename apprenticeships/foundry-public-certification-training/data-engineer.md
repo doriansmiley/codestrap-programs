@@ -1,5 +1,5 @@
 # Palantir Foundry Foundations - Data Engineer
-**Curriculum version**: `1.0.0` (see [CHANGELOG](../CHANGELOG.md))
+**Curriculum version**: `3.0.0` (see [CHANGELOG](../CHANGELOG.md))
 
 ## Introduction
 This curriculum is designed to help prepare you for [Palantir Data Engineer](https://learn.palantir.com/page/training-track-data-engineer) training and certification.
