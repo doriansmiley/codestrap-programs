@@ -82,20 +82,8 @@ Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Mitx Supply Chain Management](https://www.edx.org/micromasters/mitx-supply-chain-management) | 936 hours | 14 hours/week | [Python Certification](#python-certification), College level calculus | [chat](https://discord.com/channels/787748295346356245/787750690034155590)
 
-## Final Exam
-Once you have developed skills you will need a way to gain
-experience. There are three good ways to gain the experience to get you hired.
-
-1. [Stack overflow](https://stackoverflow.com/). This is a website that helps software engineers find answers to bugs and common problems.
-   If you build up a high rank on stack overflow it will help get your foot in the door.
-1. [Hacker Rank](https://www.hackerrank.com/auth/signup). Hacker Rank lets developers solve challenges to earn points. Recruiters can then request interviews with top-ranked coders. This is an awesome resource!
-1. Contribute to at least one popular open source project for six months. Some popular projects are below:
-
-- [TensorFlow Models](https://github.com/tensorflow/models)
-- [Keras](https://github.com/keras-team/keras)
-- [Flask](hhttps://github.com/pallets/flask)
-- [Zulip](https://github.com/zulip/zulip)
-- [Palantir Spark](https://github.com/palantir/spark)
-
-Chat is [here](https://discord.com/channels/787748295346356245/787750808413667398). To see the latest trending projects click [here](https://github.com/trending/python).
+## Next steps
+Enroll in a Palantir Certification training program.
+- [Palantir Official Training and Certification](https://learn.palantir.com) 
+- [Ontologize - Official Palantir Training and Certification Partner](https://ontologize.com/)
 
