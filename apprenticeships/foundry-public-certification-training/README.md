@@ -1,7 +1,7 @@
 
 # Palantir Foundry Foundations
 
-Learn the foundation skills to enroll in Palantir Foundry training and earn your certifications.
+Learn the foundational skills to enroll in Palantir Foundry training and earn your certifications.
 
 ## About These Study Guides 
 
